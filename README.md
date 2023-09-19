@@ -12,6 +12,8 @@ https://jaysahhn.github.io/Week-4-JasonMockCodeQuiz/
 This is a screenshot of the working webpage
 [Screenshot](Week-4-MockCodeQuiz\Assets\images\mockcodequizscreenshot.png)
 
+This screenshot is just incase the previous screenshot doesn't work.
+[Screenshot](mockcodequizscreenshot.png)
 ## Credits
 
 https://www.w3schools.com/ || 
