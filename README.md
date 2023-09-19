@@ -13,7 +13,7 @@ This is a screenshot of the working webpage
 [Screenshot](Week-4-MockCodeQuiz\Assets\images\mockcodequizscreenshot.png)
 
 This screenshot is just incase the previous screenshot doesn't work.
-[Screenshot](mockcodequizscreenshot.png)
+[Screenshot](https://i.gyazo.com/f7c34463a255c0b9c671f5aa9ec2fb3d.png)
 ## Credits
 
 https://www.w3schools.com/ || 
