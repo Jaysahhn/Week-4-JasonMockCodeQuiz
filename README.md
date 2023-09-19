@@ -8,7 +8,7 @@ This project demonstrates the usage of Javascript to create an interactive quiz 
 <!-- add deployed application link -->
 ## Usage
 This is a screenshot of the working webpage
-[Screenshot](..\Assets\images\mockcodequizscreenshot.png)
+[Screenshot](Week-4-MockCodeQuiz\Assets\images\mockcodequizscreenshot.png)
 
 ## Credits
 
