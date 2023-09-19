@@ -5,7 +5,9 @@
 This project demonstrates the usage of Javascript to create an interactive quiz with working buttons and a timer. Each button will also display wether you are correct or wrong. When you are correct, a score is kept for each correct answer. When you are wrong, time will be deducted from the overall time limit. 
 
 ## Links
-<!-- add deployed application link -->
+
+https://jaysahhn.github.io/Week-4-JasonMockCodeQuiz/
+
 ## Usage
 This is a screenshot of the working webpage
 [Screenshot](Week-4-MockCodeQuiz\Assets\images\mockcodequizscreenshot.png)
